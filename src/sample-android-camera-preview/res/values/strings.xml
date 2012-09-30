@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
     <string name="app_name">Camera Preview (Sample)</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
     <string name="title_activity_main">Camera Preview (Sample)</string>
+    <string name="button_open_camera_preview">カメラプレビューを開く</string>
+    <string name="message_camera_preview_fail">カメラプレビューを開けませんでした。端末を再起動してみてください。</string>
 
 </resources>
